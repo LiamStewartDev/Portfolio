@@ -14,10 +14,15 @@ main {
 font-weight: 600;
 margin-left: 150px;
 margin-right: 150px;
+padding-bottom: 200px;
 }
 
 #about-me {
     text-align: center;
     position: relative;
     padding: 500px;
+}
+
+a {
+    color: white;
 }
